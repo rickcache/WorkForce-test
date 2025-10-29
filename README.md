@@ -5,7 +5,7 @@ It automates key workflows like employee login, admin login, leave requests, lea
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.13  
 - **Framework:** Pytest  
@@ -27,7 +27,7 @@ It automates key workflows like employee login, admin login, leave requests, lea
 ✅ Calendar and Time Functionality
 
 
-## 🚀 How It Works
+## How It Works
 
 1. **Employee Flow:**  
    - Employee logs into the system.  
@@ -44,7 +44,7 @@ It automates key workflows like employee login, admin login, leave requests, lea
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 ✅ Data-driven tests using JSON  
 ✅ Modular and reusable POM structure  
@@ -55,7 +55,7 @@ It automates key workflows like employee login, admin login, leave requests, lea
 
 ---
 
-## 📊 Example Test Flow
+## Example Test Flow
 
 | Step | Action | Expected Result |
 |------|---------|----------------|
@@ -66,7 +66,7 @@ It automates key workflows like employee login, admin login, leave requests, lea
 
 ---
 
-## 🏁 Outcome
+## Outcome
 
 This project demonstrates **real-world automation testing skills**, including:
 - Role-based UI automation  
@@ -95,7 +95,7 @@ test/test_reject.py::test_leave_request_reject FAILED
 ```
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
