@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "fullname": "priyanshu",
+            "regi_email": "priyanshu@example.com",
+            "regi_password": "priyanshu123",
+            "regi_address": "19 no prok street",
+            "regi_phone": "1273107312"
+        }
+    ]
+}
